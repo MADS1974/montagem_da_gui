@@ -49,10 +49,12 @@ SafeArea — Garantia de visibilidade em diferentes dispositivos.
 
 Form & GlobalKey — Validação estruturada de formulário.
 
-📸 Demonstração do App
-01 - Tela de Cadastro (Layout Principal)
-02 - Validação de Campos (Erro em vermelho)
-03 - Caixa de Diálogo (Exibição dos dados capturados)
+✔️ Demonstração em Vídeo: Arquivo gravado mostrando o fluxo completo desde o preenchimento até o alerta final.
+
+#### 🎥 Vídeo Demonstrativo
+Confira o funcionamento da interface e das validações no vídeo abaixo:
+
+👉 [Clique aqui e selecione "View Raw" para ver o vídeo demonstrativo](./screen%20video/montagem_da_gui.mp4)
 
 ▶️ Como Executar o Projeto
 Bash
